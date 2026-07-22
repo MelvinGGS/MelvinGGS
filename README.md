@@ -9,3 +9,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
   <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
 </picture>
+
+---
+
+## Overview
+
+Software development and automated workflows.
+
+### Skills and Technologies
+
+- Languages: JavaScript, TypeScript, Python, C++, Go
+- Tools: Git, Docker, Linux, CI/CD Workflows
+- Focus: Software Architecture and Automation Systems
