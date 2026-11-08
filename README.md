@@ -33,11 +33,7 @@
 <!-- cool-readme:end -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,rust,go,linux,kubernetes,docker,gcp,rabbitmq,githubactions,nodejs,react,ts,js,python,java,cs,postgres,redis&perline=9&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,rust,go,linux,kubernetes,docker,gcp,rabbitmq,githubactions,nodejs,react,ts,js,python,java,cs,postgres,redis&perline=9&theme=light">
-    <img src="https://skillicons.dev/icons?i=c,rust,go,linux,kubernetes,docker,gcp,rabbitmq,githubactions,nodejs,react,ts,js,python,java,cs,postgres,redis&perline=9" alt="Technologies">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=c,rust,go,linux,kubernetes,docker,gcp,rabbitmq,githubactions,nodejs,react,ts,js,python,java,cs,postgres,redis&perline=9" alt="Technologies" />
 </p>
 
 <p align="center">
