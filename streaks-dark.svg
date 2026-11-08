@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Streaks</title>
+<desc id="desc">Current streak: 1 day. Longest streak: 8 days. Active days: 202. Per active day: 4. Best day · Jun 16, 2026: 30. Best month · Jun 2026: 158.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .label { font-size: 14px; }
+  .value { font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .small { font-size: 12px; }
+  .col { font-size: 11px; fill: #7d8590; letter-spacing: 0.04em; }
+  .secondary { fill: #9198a1; }
+  .muted { fill: #7d8590; }
+  .icon { fill: #9198a1; }
+  .fade { animation: fade 0.45s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left center; animation: grow 0.9s cubic-bezier(.2,.7,.2,1) 0.15s both; }
+  .ring { animation: ring 1.2s cubic-bezier(.2,.7,.2,1) 0.2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out 0.5s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.6); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .cols { animation: cols 8.6s ease-in-out infinite; }
+  @keyframes cols { 0%, 40.70% { transform: translateX(0); } 50.00%, 90.70% { transform: translateX(-180px); } 100% { transform: translateX(0); } }
+  .page1 { animation: page1 8.6s ease-in-out infinite; }
+  @keyframes page1 { 0%, 40.70% { opacity: 1; } 50.00%, 90.70% { opacity: 0; } 100% { opacity: 1; } }
+  .page2 { opacity: 0; animation: page2 8.6s ease-in-out infinite; }
+  @keyframes page2 { 0%, 40.70% { opacity: 0; } 50.00%, 90.70% { opacity: 1; } 100% { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="399" height="194" rx="6" fill="none" stroke="none"/>
+<text x="20" y="28" class="col">STREAKS</text>
+<clipPath id="cols"><rect x="20" y="0" width="360" height="195"/></clipPath><g clip-path="url(#cols)"><g class="cols">
+<g transform="translate(20 46)"><g class="fade" style="animation-delay: 200ms"><text y="18" style="font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums;">1 day</text><text y="35" class="small secondary">Current streak</text></g></g>
+<g transform="translate(20 92)"><g class="fade" style="animation-delay: 290ms"><text y="18" style="font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums; fill: #3fb950;">8 days</text><text y="35" class="small secondary">Longest streak</text></g></g>
+<g transform="translate(200 46)"><g class="fade" style="animation-delay: 380ms"><text y="18" style="font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums;">202</text><text y="35" class="small secondary">Active days</text></g></g>
+<g transform="translate(200 92)"><g class="fade" style="animation-delay: 470ms"><text y="18" style="font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums;">4</text><text y="35" class="small secondary">Per active day</text></g></g>
+<g transform="translate(380 46)"><g class="fade" style="animation-delay: 560ms"><text y="18" style="font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums;">30</text><text y="35" class="small secondary">Best day · Jun 16, 2026</text></g></g>
+<g transform="translate(380 92)"><g class="fade" style="animation-delay: 650ms"><text y="18" style="font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums; fill: #3fb950;">158</text><text y="35" class="small secondary">Best month · Jun 2026</text></g></g>
+</g></g>
+<g class="page1"><path d="M55 179v-8h1v8zM56 179v-8h1v8zM57 179v-5h1v5zM59 179v-16h1v16zM60 179v-5h1v5zM61 179v-8h1v8zM62 179v-8h1v8zM66 179v-9h1v9zM71 179v-18h1v18zM72 179v-9h1v9zM73 179v-8h1v8zM74 179v-5h1v5zM78 179v-5h1v5zM79 179v-8h1v8zM112 179v-8h1v8zM126 179v-5h1v5zM127 179v-8h1v8zM129 179v-9h1v9zM130 179v-5h1v5zM132 179v-14h1v14zM133 179v-9h1v9zM136 179v-8h1v8zM140 179v-9h1v9zM148 179v-8h1v8zM154 179v-8h1v8zM157 179v-8h1v8zM158 179v-13h1v13zM159 179v-8h1v8zM160 179v-19h1v19zM168 179v-9h1v9zM181 179v-12h1v12zM187 179v-8h1v8zM189 179v-5h1v5zM208 179v-8h1v8zM235 179v-8h1v8zM236 179v-15h1v15zM238 179v-18h1v18zM241 179v-8h1v8zM242 179v-11h1v11zM243 179v-16h1v16zM244 179v-15h1v15zM246 179v-24h1v24zM247 179v-12h1v12zM249 179v-30h1v30zM250 179v-16h1v16zM251 179v-11h1v11zM252 179v-11h1v11zM253 179v-9h1v9zM255 179v-9h1v9zM256 179v-19h1v19zM258 179v-16h1v16zM260 179v-13h1v13zM263 179v-16h1v16zM285 179v-5h1v5zM286 179v-8h1v8zM289 179v-8h1v8zM290 179v-5h1v5zM292 179v-5h1v5zM293 179v-14h1v14zM294 179v-8h1v8zM299 179v-12h1v12zM300 179v-8h1v8zM320 179v-19h1v19zM321 179v-8h1v8zM322 179v-8h1v8zM329 179v-11h1v11zM334 179v-12h1v12zM335 179v-23h1v23zM336 179v-15h1v15zM337 179v-15h1v15zM348 179v-16h1v16zM349 179v-5h1v5zM350 179v-8h1v8zM362 179v-22h1v22zM363 179v-9h1v9zM364 179v-15h1v15zM367 179v-14h1v14zM368 179v-8h1v8zM369 179v-24h1v24zM371 179v-8h1v8zM373 179v-5h1v5zM374 179v-19h1v19zM375 179v-9h1v9zM376 179v-26h1v26zM377 179v-19h1v19zM379 179v-9h1v9z" fill="#3d444d"/><path d="M196 179v-8h1v8zM197 179v-11h1v11zM198 179v-13h1v13zM199 179v-5h1v5zM200 179v-14h1v14zM201 179v-8h1v8zM202 179v-16h1v16zM203 179v-11h1v11z" fill="#3fb950"/></g><g class="page2"><path d="M40 179v-8h1v8zM41 179v-8h1v8zM42 179v-5h1v5zM44 179v-16h1v16zM45 179v-5h1v5zM46 179v-8h1v8zM47 179v-8h1v8zM51 179v-9h1v9zM56 179v-18h1v18zM57 179v-9h1v9zM58 179v-8h1v8zM59 179v-5h1v5zM63 179v-5h1v5zM64 179v-8h1v8zM97 179v-8h1v8zM111 179v-5h1v5zM112 179v-8h1v8zM114 179v-9h1v9zM115 179v-5h1v5zM117 179v-14h1v14zM118 179v-9h1v9zM121 179v-8h1v8zM125 179v-9h1v9zM133 179v-8h1v8zM139 179v-8h1v8zM142 179v-8h1v8zM143 179v-13h1v13zM144 179v-8h1v8zM145 179v-19h1v19zM153 179v-9h1v9zM166 179v-12h1v12zM172 179v-8h1v8zM174 179v-5h1v5zM181 179v-8h1v8zM182 179v-11h1v11zM183 179v-13h1v13zM184 179v-5h1v5zM185 179v-14h1v14zM186 179v-8h1v8zM187 179v-16h1v16zM188 179v-11h1v11zM193 179v-8h1v8zM270 179v-5h1v5zM271 179v-8h1v8zM274 179v-8h1v8zM275 179v-5h1v5zM277 179v-5h1v5zM278 179v-14h1v14zM279 179v-8h1v8zM284 179v-12h1v12zM285 179v-8h1v8zM305 179v-19h1v19zM306 179v-8h1v8zM307 179v-8h1v8zM314 179v-11h1v11zM319 179v-12h1v12zM320 179v-23h1v23zM321 179v-15h1v15zM322 179v-15h1v15zM333 179v-16h1v16zM334 179v-5h1v5zM335 179v-8h1v8zM347 179v-22h1v22zM348 179v-9h1v9zM349 179v-15h1v15zM352 179v-14h1v14zM353 179v-8h1v8zM354 179v-24h1v24zM356 179v-8h1v8zM358 179v-5h1v5zM359 179v-19h1v19zM360 179v-9h1v9zM361 179v-26h1v26zM362 179v-19h1v19zM364 179v-9h1v9zM379 179v-9h1v9z" fill="#3d444d"/><path d="M220 179v-8h1v8zM221 179v-15h1v15zM223 179v-18h1v18zM226 179v-8h1v8zM227 179v-11h1v11zM228 179v-16h1v16zM229 179v-15h1v15zM231 179v-24h1v24zM232 179v-12h1v12zM234 179v-30h1v30zM235 179v-16h1v16zM236 179v-11h1v11zM237 179v-11h1v11zM238 179v-9h1v9zM240 179v-9h1v9zM241 179v-19h1v19zM243 179v-16h1v16zM245 179v-13h1v13zM248 179v-16h1v16z" fill="#3fb950"/></g>
+</svg>
