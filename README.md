@@ -36,41 +36,13 @@
   <img src="https://skillicons.dev/icons?i=c,cs,rust,go,py,java,js,ts,nodejs,express,react,nextjs,vite,tailwind,postgres,mysql,redis,rabbitmq,docker,kubernetes,gcp,terraform,nginx,linux,bash,git,githubactions,postman&perline=14" alt="Technologies" />
 </p>
 
-<details open>
-  <summary align="center"><b>🚀 Arcade Mode: Galaga</b></summary>
-  <br/>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
-      <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
-    </picture>
-  </p>
-</details>
-
-<details>
-  <summary align="center"><b>👻 Arcade Mode: Pac-Man</b></summary>
-  <br/>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/pacman-contribution-graph.svg">
-    </picture>
-  </p>
-</details>
-
-<details>
-  <summary align="center"><b>🟪 Arcade Mode: Tetris</b></summary>
-  <br/>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/tetris-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/tetris-contribution-graph.svg">
-      <img alt="tetris contribution graph" src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/tetris-contribution-graph.svg">
-    </picture>
-  </p>
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/melvin.ggs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-melvin.ggs-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
