@@ -33,7 +33,7 @@
 <!-- cool-readme:end -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,rust,go,py,java,js,ts,asm,bash,linux,html,css,tailwind,bootstrap,vite,react,nextjs,nodejs,express,postgres,mysql,redis,rabbitmq,docker,kubernetes,gcp,terraform,nginx,git,githubactions,postman,vscode&perline=11" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=c,cs,rust,go,py,java,js,ts,nodejs,express,react,nextjs,vite,tailwind,postgres,mysql,redis,rabbitmq,docker,kubernetes,gcp,terraform,nginx,linux,bash,git,githubactions,postman&perline=14" alt="Technologies" />
 </p>
 
 <p align="center">
