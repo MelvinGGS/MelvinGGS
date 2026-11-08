@@ -1,0 +1,12 @@
+user: MelvinGGS
+
+show: [summary, languages, contributions, weekly]
+
+look:
+  style: classic
+  color: github
+  background: none
+
+cards:
+  summary:
+    ring: github

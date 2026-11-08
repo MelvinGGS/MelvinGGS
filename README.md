@@ -1,23 +1,31 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinGGS)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MelvinGGS&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MelvinGGS)  
-
+<!-- cool-readme:start -->
+<!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/cards/summary-light.svg" width="400" alt="GitHub stats">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/cards/contributions-light.svg" width="400" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+</p>
+<!-- cool-readme:end -->
 
----
-
-## Overview
-
-Software development and automated workflows.
-
-### Skills and Technologies
-
-- Languages: JavaScript, TypeScript, Python, C++, Go
-- Tools: Git, Docker, Linux, CI/CD Workflows
-- Focus: Software Architecture and Automation Systems
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph.svg">
+  </picture>
+</p>
