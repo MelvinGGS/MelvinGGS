@@ -32,6 +32,36 @@
 </p>
 <!-- cool-readme:end -->
 
+---
+
+<div align="center">
+
+## 🚀 Proyectos Destacados
+
+</div>
+
+### 📦 [MegaStore SGO-Logic](https://github.com/MelvinGGS/AYD2_B_2S2026_PROYECTO_G11)
+> **Sistema de Gestión de Órdenes y Logística Omnicanal con Campaña BNPL (Buy Now Pay Later)**
+* **Rol:** Líder Técnico / Frontend Omnicanal / CI/CD.
+* **Qué se hizo:** Arquitectura distribuida basada en microservicios desacoplados (Pagos, Inventario, Facturación y Logística), colas asíncronas con **RabbitMQ**, pipelines de CI/CD automatizados, pruebas de carga/estrés y despliegue oficial en la nube en **Google Cloud Platform (GCP)** con dominios SSL y DNS dinámico.
+* **Tecnologías:** `GCP` • `RabbitMQ` • `Docker` • `JavaScript` • `Java (Spring)` • `C# (.NET)` • `CI/CD`
+
+---
+
+### 🚚 [TrackFlow-HUB](https://github.com/MelvinGGS/AYD1_Proyecto_VJ_G3)
+> **Plataforma Integral de Trazabilidad y Logística de Paquetería**
+* **Qué se hizo:** Sistema para rastreo de envíos en tiempo real entre clientes, empresas y operadores con autenticación JWT y roles. Arquitectura modular con frontend en React 19 y backend en Node.js/Express, orquestado con **Docker Compose**, persistencia relacional con **PostgreSQL** y suites de pruebas unitarias (Jest) y E2E.
+* **Tecnologías:** `React 19` • `Node.js (Express)` • `PostgreSQL` • `Docker Compose` • `Jest` • `Bootstrap`
+
+---
+
+### ⚙️ [Sistemas Operativos 1: Kernel & Microservicios K8s](https://github.com/MelvinGGS/202300712_LAB_SO1_1S2026)
+> **Monitoreo a Nivel de Kernel en Linux y Arquitectura Distribuida en Kubernetes**
+* **Qué se hizo:** Desarrollo de un módulo del kernel de Linux en lenguaje **C** para extracción de métricas de memoria y CPU (`/proc`). Daemon de orquestación en **Go** con visualización en Grafana. Ecosistema de microservicios en **Kubernetes** con API Gateway en **Rust**, ingesta gRPC en **Go**, broker RabbitMQ, almacenamiento en Valkey sobre KubeVirt y autoescalado horizontal (HPA) evaluado con Locust.
+* **Tecnologías:** `Go` • `Rust` • `C (Linux Kernel)` • `Kubernetes` • `gRPC` • `RabbitMQ` • `Valkey` • `Grafana` • `Locust`
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinGGS/MelvinGGS/output/galaga-contribution-graph-dark.svg">
