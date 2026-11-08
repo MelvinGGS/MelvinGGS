@@ -36,29 +36,34 @@
 
 <div align="center">
 
-## 🚀 Proyectos Destacados
+## 🛠️ Stack Tecnológico por Especialidad
+
+<p>
+  <b>⚡ Bajo Nivel & Sistemas</b><br>
+  <img src="https://img.shields.io/badge/C_(Kernel)-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
+
+<p>
+  <b>☁️ Cloud, Orquestación & DevOps</b><br>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+<p>
+  <b>🌐 Desarrollo Web & Bases de Datos</b><br>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Valkey_%2F_Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Valkey / Redis">
+</p>
 
 </div>
-
-### 📦 [MegaStore SGO-Logic](https://github.com/MelvinGGS/AYD2_B_2S2026_PROYECTO_G11)
-> **Sistema de Gestión de Órdenes y Logística Omnicanal con Campaña BNPL (Buy Now Pay Later)**
-* **Rol:** Líder Técnico / Frontend Omnicanal / CI/CD.
-* **Qué se hizo:** Arquitectura distribuida basada en microservicios desacoplados (Pagos, Inventario, Facturación y Logística), colas asíncronas con **RabbitMQ**, pipelines de CI/CD automatizados, pruebas de carga/estrés y despliegue oficial en la nube en **Google Cloud Platform (GCP)** con dominios SSL y DNS dinámico.
-* **Tecnologías:** `GCP` • `RabbitMQ` • `Docker` • `JavaScript` • `Java (Spring)` • `C# (.NET)` • `CI/CD`
-
----
-
-### 🚚 [TrackFlow-HUB](https://github.com/MelvinGGS/AYD1_Proyecto_VJ_G3)
-> **Plataforma Integral de Trazabilidad y Logística de Paquetería**
-* **Qué se hizo:** Sistema para rastreo de envíos en tiempo real entre clientes, empresas y operadores con autenticación JWT y roles. Arquitectura modular con frontend en React 19 y backend en Node.js/Express, orquestado con **Docker Compose**, persistencia relacional con **PostgreSQL** y suites de pruebas unitarias (Jest) y E2E.
-* **Tecnologías:** `React 19` • `Node.js (Express)` • `PostgreSQL` • `Docker Compose` • `Jest` • `Bootstrap`
-
----
-
-### ⚙️ [Sistemas Operativos 1: Kernel & Microservicios K8s](https://github.com/MelvinGGS/202300712_LAB_SO1_1S2026)
-> **Monitoreo a Nivel de Kernel en Linux y Arquitectura Distribuida en Kubernetes**
-* **Qué se hizo:** Desarrollo de un módulo del kernel de Linux en lenguaje **C** para extracción de métricas de memoria y CPU (`/proc`). Daemon de orquestación en **Go** con visualización en Grafana. Ecosistema de microservicios en **Kubernetes** con API Gateway en **Rust**, ingesta gRPC en **Go**, broker RabbitMQ, almacenamiento en Valkey sobre KubeVirt y autoescalado horizontal (HPA) evaluado con Locust.
-* **Tecnologías:** `Go` • `Rust` • `C (Linux Kernel)` • `Kubernetes` • `gRPC` • `RabbitMQ` • `Valkey` • `Grafana` • `Locust`
 
 ---
 
