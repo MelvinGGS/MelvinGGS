@@ -1,6 +1,6 @@
 user: MelvinGGS
 
-show: [summary, languages, contributions, weekly]
+show: [summary, languages, contributions, weekly, streaks, about]
 
 look:
   style: classic
@@ -10,3 +10,16 @@ look:
 cards:
   summary:
     ring: github
+  streaks:
+    title: Streaks
+  about:
+    title: Contact & Info
+    headline: Melvin García
+    lines:
+      - Developer & Student
+    facts:
+      Email: Melvinggs16@gmail.com
+      Instagram: melvin.ggs
+      GitLab: MelvinGGS
+      Google Dev: MelvinGGS
+      Timezone: UTC -06:00
