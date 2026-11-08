@@ -3,14 +3,11 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: '17 */2 * * *'   # every 2 hours
+    - cron: '0 0 * * *'   # una vez al día a las 00:00 UTC (igual que Galaga)
   workflow_dispatch:
   push:
     branches:
       - main
-    paths:
-      - 'cool-readme.yml'
-      - '.github/workflows/cool-readme.yml'
 
 permissions:
   contents: write
