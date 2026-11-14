@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Notable contributions</title>
+<desc id="desc">firstcontributions/first-contributions (56848 stars): 1 PR merged · Nov 2026</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .label { font-size: 14px; }
+  .value { font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .small { font-size: 12px; }
+  .col { font-size: 11px; fill: #7d8590; letter-spacing: 0.04em; }
+  .secondary { fill: #9198a1; }
+  .muted { fill: #7d8590; }
+  .icon { fill: #9198a1; }
+  .fade { animation: fade 0.45s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left center; animation: grow 0.9s cubic-bezier(.2,.7,.2,1) 0.15s both; }
+  .ring { animation: ring 1.2s cubic-bezier(.2,.7,.2,1) 0.2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out 0.5s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.6); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="399" height="194" rx="6" fill="none" stroke="none"/>
+<text x="20" y="28" class="col">NOTABLE CONTRIBUTIONS</text><clipPath id="rows"><rect x="0" y="40" width="400" height="138"/></clipPath><g clip-path="url(#rows)"><g>
+<g transform="translate(20 44)"><g class="fade" style="animation-delay: 200ms"><clipPath id="av0"><circle cx="15" cy="15" r="15"/></clipPath><image href="data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAFAAUAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6KKKACiiigBrusaM7sFVRksTgAVit4u0VZvL+1E843iNiv54qh48upYNKghQkJNJh8dwBnH+fSsC38PWc3hKTVWu2E6qzBcjaCD9098n+or0cPhaUqaqVW9XZWPCxuY4mOIdDDRT5Vd3/AE1R6PDNHcRLLDIskbDKspyDT64j4e3crpe2pJMSbXX/AGSc5/PH6V29cuJo+xqun2PSwOK+tUI1rWuFFFFYHWFFFFABRVTVLmSz0m7uYl3SRQs6j3AzXlLW/wBt0W51m41dTeCTb5DHLsDj3z39McV2YXCe3TblZXttfVnnY7MPq0lGMeZ2b3tov62Ok8b+ILK5txptsUnkVwzyA5CEdge5rhDKcYyceldZ4Y8GHVIYdQvpAto+SsS/efBxyew4/wD1Vx90Ql1MqjADsAPxr38GqUE6NN35d/U+TzCOIrNYmsrc23p/TPY/DWiw6Npaqjb5ZgHkcjGTjgfQVs1Daf8AHlB/1zX+VTV8xVnKc3KT1PuKFONKnGEFZIKKKKzNQooooARlDKVYAgjBB71y0nw+0WS7M2bhUJyYVcbfp0zj8a6qitadapSvyO1zGth6Va3tIp2GQxRwQpDEgSNFCqo6ADtXgF6/+mz/APXRv519BV863r/6dcf9dG/nXs5HrKp8v1PEz6Pu00vP9D6Ds/8Ajxt/+ua/yqeoLL/jwt/+uS/yqevDl8TPfj8KCiiipKCiiigAooooAK+bb5/9PuP+urfzr3vxJ4gtvDekPfXClzkJHGDgux6D26E/hXzzPK00sk5UgM5Jx0BPOK+kyGlK05taOx4OdSjJwgt1c+lrH/jwtv8Arkv8hU9c54M8SW/iPRVeNfLntwsU0ROcHHBHscfoa6OvArU5U6jhNWaPapTjOClHYKKKKyNAooooAKKKKAPPvi3ZXE/h61uolZo7abMoHYMMA/nx+NcfZeOdPtvh9N4ffTna6dHQOAuwliSHPOcjPp2Fe3yRpLG0ciK6MMMrDII9CK5V/ht4VkujOdNIycmNZXCZ+mf0r2MJjqEaKo4iLfK7qx52IwlV1XUpNaqzucz8HbG4WLUr91ZbeXZEhP8AERkn8sj869SqK3tobS3S3t4kihjGERFwFHsKlrgxmI+s1pVbWudeHo+xpqHYKKKK5jY//9k=" width="30" height="30" clip-path="url(#av0)"/><circle cx="15" cy="15" r="14.5" stroke="#3d444d" fill="none"/><text x="42" y="13" class="label"><tspan class="secondary">firstcontributions/</tspan><tspan style="font-weight: 600;">first-contrib…</tspan></text><text x="42" y="30" class="small muted">1 PR merged · Nov 2026</text><g class="icon" transform="translate(319.84 8) scale(0.875)"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path></g><text x="360" y="20" class="small secondary" style="font-weight: 600;" text-anchor="end">57k</text></g></g>
+</g></g>
+</svg>
